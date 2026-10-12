@@ -1,5 +1,5 @@
 # FI
-Neural Network for Innovative Management Simulation and Analysis.
+Software for Innovative Management Simulation and Analysis.
 
 Its goal is to evaluate, stress-test, and model experimental management strategies before implementing them in an operational business environment.
 
